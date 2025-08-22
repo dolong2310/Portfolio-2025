@@ -27,7 +27,7 @@ export default function Home() {
       <div className="mb-8">
         <img
           className="rounded-base shadow-shadow aspect-square w-[200px] border-4 border-black object-cover"
-          src="/me.jpeg"
+          src="/me.jpg"
           alt="me"
         />
       </div>
