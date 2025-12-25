@@ -22,11 +22,11 @@ export default function Nav() {
       <Link
         className={clsx(
           'flex h-full items-center justify-center uppercase',
-          path === '/work'
+          path === '/projects'
             ? 'bg-black text-white'
             : 'text-main-foreground bg-main',
         )}
-        href="/work"
+        href="/projects"
       >
         Projects
       </Link>

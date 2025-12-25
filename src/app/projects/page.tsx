@@ -19,6 +19,22 @@ export default function Page() {
       repoUrl: 'https://github.com/dolong2310/nextagent-app',
     },
     {
+      name: 'Emo',
+      description:
+        'EMO is an AI-powered customer support platform that automates customer service through intelligent chat and voice capabilities. Built with Next.js 15, React 19, and Convex, it features a RAG-based AI agent using OpenAI embeddings for accurate knowledge base search and Vapi integration for voice calling. Businesses can embed a customizable widget on their websites for real-time customer interactions. The platform includes a comprehensive dashboard for managing conversations, escalating to human operators, tracking sessions, and organizing knowledge bases. With multi-organization support via Clerk authentication, subscription billing, and secure AWS Secrets Manager integration, EMO provides a complete solution for modern customer support automation.',
+      liveLink: 'https://emo-support.vercel.app/',
+      previewImage: '/project9.png',
+      repoUrl: 'https://github.com/dolong2310/emo',
+    },
+    {
+      name: 'NFT App',
+      description:
+        'NFT Web3 is a Next.js decentralized application for managing ERC-721 NFTs across EVM blockchains including Ethereum, BSC, and Polygon. It supports MetaMask and Coin98 wallets, enabling users to view collections, mint NFTs with custom URIs, transfer tokens, and manage approvals. Built with Web3.js, Tailwind CSS, and Radix UI, it features a scalable service-layer architecture with Zustand state management.',
+      liveLink: 'https://nft-app-longdo.vercel.app/',
+      previewImage: '/project10.png',
+      repoUrl: 'https://github.com/dolong2310/nft-app',
+    },
+    {
       name: 'Messenger',
       description:
         'A real-time messenger chat application built with Next.js, TypeScript, and MongoDB. The project features user authentication via Google and GitHub, group and private conversations, message read receipts, and instant updates using Pusher. Users can update their profiles, send images, and experience seamless communication with a modern UI.',

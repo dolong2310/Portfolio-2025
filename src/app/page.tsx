@@ -1,4 +1,3 @@
-import { AspectRatio } from '@/components/ui/aspect-ratio'
 import {
   IconType,
   SiGithub,
@@ -34,7 +33,7 @@ export default function Home() {
 
       <h2 className="mb-2 text-2xl">Overview:</h2>
       <p>
-        Frontend engineer with 4 years of experience. Previously worked at a
+        Frontend engineer with 4.5 years of experience. Previously worked at a
         fast-growing startup and a large enterprise company.
         <br />
         Always seeking to take ownership of the project and deliver faster than
